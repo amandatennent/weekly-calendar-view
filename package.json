@@ -1,0 +1,26 @@
+{
+    "name": "weekly-calendar-view-card",
+    "version": "1.0.0",
+    "description": "Custom lovelace card",
+    "keywords": [
+      "home-assistant",
+      "homeassistant",
+      "hass",
+      "lovelace",
+      "custom-cards",
+      "calendar"
+    ],
+    "module": "weekly-calendar-view.js",
+    "repository": "git@github.com:amandatennent/weekly-calendar-view",
+    "author": "Amanda Tennent <amandatennent@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+
+    },
+    "devDependencies": {
+
+    },
+    "scripts": {
+
+    }
+  }
